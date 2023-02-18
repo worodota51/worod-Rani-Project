@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  width: 100%;
+  background-image: url("../src/images/5356572.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 100vh;
+  width: 100%;
+}
